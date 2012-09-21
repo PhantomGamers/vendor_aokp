@@ -23,5 +23,6 @@ add_lunch_combo aokp_mezmerizemtd-userdebug
 add_lunch_combo aokp_grouper-userdebug
 add_lunch_combo aokp_showcasemtd-userdebug
 add_lunch_combo aokp_stingray-userdebug
+add_lunch_combo aokp_tenderloin-userdebug
 add_lunch_combo aokp_vibrantmtd-userdebug
 add_lunch_combo aokp_wingray-userdebug

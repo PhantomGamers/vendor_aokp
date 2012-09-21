@@ -18,6 +18,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/p5110.mk \
     $(LOCAL_DIR)/p5113.mk \
     $(LOCAL_DIR)/stingray.mk \
+    $(LOCAL_DIR)/tenderloin.mk \
     $(LOCAL_DIR)/toro.mk \
     $(LOCAL_DIR)/toroplus.mk \
     $(LOCAL_DIR)/vibrantmtd.mk \
