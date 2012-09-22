@@ -4,7 +4,7 @@ PRODUCT_RELEASE_NAME := Touchpad
 
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
-PRODUCT_BUILD_PROP_OVERRIDES := PRODUCT_NAME=touchpad BUILD_FINGERPRINT=google/nakasi/grouper:4.1.1/JRO03H/405518:user/release-keys PRIVATE_BUILD_DESC="nakasi-user 4.1.1 JRO03H 405518 release-keys" BUILD_NUMBER=405518
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=touchpad BUILD_FINGERPRINT=hp/hp_tenderloin/tenderloin:4.1.1/JR003C/228551:user/release-keys PRIVATE_BUILD_DESC="tenderloin-user 4.1.1 JR003C 228551 release-keys"
 
 PRODUCT_NAME := aokp_tenderloin
 PRODUCT_DEVICE := tenderloin
