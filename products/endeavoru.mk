@@ -1,5 +1,5 @@
 # Inherit AOSP device configuration for endeavoru.
-$(call inherit-product, device/samsung/endeavoru/full_endeavoru.mk)
+$(call inherit-product, device/htc/endeavoru/full_endeavoru.mk)
 
 # Inherit common product files.
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
